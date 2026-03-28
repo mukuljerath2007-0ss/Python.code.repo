@@ -1,4 +1,3 @@
-# Python.code.repo
 import time
 #for time in format of Hours,Minutes,Seconds
 timestamp=time.strftime('%H:%M:%S')
